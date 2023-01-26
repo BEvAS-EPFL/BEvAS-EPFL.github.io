@@ -11,7 +11,7 @@
 		<ul class="icons">
 		{% for social in site.socials %}
 			{% if social[1] %}
-			<li><a href="{{ social[1] }}" class="icon fa-brands fa-{{ social[0] | downcase }} alt"><span class="label">{{ social[0] }}</span></a></li>
+			<li><a href="{{ social[1] }}" class="fa-brands fa-{{ social[0] | downcase }} alt"><span class="label">{{ social[0] }}</span></a></li>
 			{% endif %}
 		{% endfor %}
 		</ul>
