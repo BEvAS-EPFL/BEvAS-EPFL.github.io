@@ -2792,6 +2792,7 @@
 
 			table.alt thead {
 				border-bottom: 0;
+				text-align: center;
 			}
 
 			table.alt tfoot {
