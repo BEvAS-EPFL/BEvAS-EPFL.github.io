@@ -2803,9 +2803,9 @@
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
-		table tbody tr:nth-child(2n + 1) {
+		/* table tbody tr:nth-child(2n + 1) {
 			background-color: rgba(255, 255, 255, 0.075);
-		}
+		} */
 
 	table th {
 		color: #ffffff;
@@ -3574,9 +3574,9 @@
 			border-color: #dddddd;
 		}
 
-			#main table tbody tr:nth-child(2n + 1) {
+			/* #main table tbody tr:nth-child(2n + 1) {
 				background-color: rgba(222, 222, 222, 0.25);
-			}
+			} */
 
 		#main table th {
 			color: #636363;
